@@ -1,16 +1,24 @@
-## Hi there 👋
+### XL1tZy here 👋
 
-<!--
-**XL1tZy/XL1tZy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Hong Kong.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Powered by coffee and late-night commits
+- 📚 Currently reading whatever the docs link to
+- ✨ I prefer boring solutions that work
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=XL1tZy&hide_border=true&theme=xcode" alt="Contribution graph" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL1tZy&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XL1tZy&hide_border=true&theme=nightowl" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-39d353?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-39d353?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Go-39d353?style=for-the-badge&logoColor=white" alt="Go" />
+</p>
+
+</details>
+
+<sub>Based in Hong Kong. Always happy to talk shop.</sub>
